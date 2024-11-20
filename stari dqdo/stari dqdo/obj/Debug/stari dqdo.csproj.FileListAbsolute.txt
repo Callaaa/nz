@@ -1,0 +1,11 @@
+C:\Users\1409-4\Desktop\100qn 12a\stari dqdo\stari dqdo\bin\Debug\stari dqdo.exe.config
+C:\Users\1409-4\Desktop\100qn 12a\stari dqdo\stari dqdo\bin\Debug\stari dqdo.exe
+C:\Users\1409-4\Desktop\100qn 12a\stari dqdo\stari dqdo\bin\Debug\stari dqdo.pdb
+C:\Users\1409-4\Desktop\100qn 12a\stari dqdo\stari dqdo\obj\Debug\stari dqdo.csproj.AssemblyReference.cache
+C:\Users\1409-4\Desktop\100qn 12a\stari dqdo\stari dqdo\obj\Debug\stari_dqdo.Form1.resources
+C:\Users\1409-4\Desktop\100qn 12a\stari dqdo\stari dqdo\obj\Debug\stari_dqdo.Form2.resources
+C:\Users\1409-4\Desktop\100qn 12a\stari dqdo\stari dqdo\obj\Debug\stari_dqdo.Properties.Resources.resources
+C:\Users\1409-4\Desktop\100qn 12a\stari dqdo\stari dqdo\obj\Debug\stari dqdo.csproj.GenerateResource.cache
+C:\Users\1409-4\Desktop\100qn 12a\stari dqdo\stari dqdo\obj\Debug\stari dqdo.csproj.CoreCompileInputs.cache
+C:\Users\1409-4\Desktop\100qn 12a\stari dqdo\stari dqdo\obj\Debug\stari dqdo.exe
+C:\Users\1409-4\Desktop\100qn 12a\stari dqdo\stari dqdo\obj\Debug\stari dqdo.pdb
